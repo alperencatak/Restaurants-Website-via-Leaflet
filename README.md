@@ -1,5 +1,5 @@
 # ツ Subject
-<p align="justify">Interactive website creation with rating and district filters for demo restaurants in Ankara via Leaflet.</p>
+<p align="justify">Interactive website creation with rating and district filters for restaurants in Ankara via Leaflet.</p>
 
 
 # ツ Abstract
