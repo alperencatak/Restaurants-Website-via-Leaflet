@@ -28,19 +28,19 @@ The Districts filter is a filter that helps show restaurants in your area of res
 
 The control units located on the left contain buttons to zoom in and out of the map and show the current location.
 
-![image](https://github.com/GMT-351-Geospatial-Data-Management/resit-project-team10/assets/118128475/5e3a1e11-310b-40dd-b92d-8036351725a8)
+![1](https://github.com/user-attachments/assets/0e2cd312-bfee-4c36-88f4-70c9c93365f5)
 
 Here is the "District" filter.
 
-![image](https://github.com/GMT-351-Geospatial-Data-Management/resit-project-team10/assets/118128475/db020b09-2fc0-42af-a602-ae4766dc2eb3)
+![2](https://github.com/user-attachments/assets/e18d3142-7a00-45c6-8e61-688f501c8c21)
 
 And restaurants in "Çankaya" filtered by "4.4" points.
 
-![image](https://github.com/GMT-351-Geospatial-Data-Management/resit-project-team10/assets/118128475/06085024-2a84-4ffe-9bc4-d774ad5be9a1)
+![3](https://github.com/user-attachments/assets/54fcc714-8b80-414f-990b-f8f59c708302)
 
 And we can gather info from pop-up as well.
 
-![image](https://github.com/GMT-351-Geospatial-Data-Management/resit-project-team10/assets/118128475/de287b17-1602-41d6-a337-5dd21fcd8ca4)
+![4](https://github.com/user-attachments/assets/22944d4f-70f7-4d30-b033-4e98a24e2ce2)
 
 
 The process of renewing the project: I encountered such a react error. Then started the project again. In this project, created a database instead of pulling live data from google. I aimed to provide up-to-date data on our site by continuously updating the data in this SQL-based database. The process was successful and uploaded the current data from database to web page using java script. I did the necessary checks on web page and did not encounter any errors. I added the video of project below.
